@@ -14,7 +14,7 @@ print(message)
 message = f"Dear {guests[2].title()} I would like cordially invite you to dinner"
 print(message)
 
-
+print(f"I am inviting {len(guests)} people to dinner")
 
 news = "i found a bigger motherfucking table!"
 print(news.upper())
@@ -25,6 +25,8 @@ guests.append("bruce lee")
 
 message = f"Dear {guests} I would like cordially invite you to dinner"
 print(message)
+
+print(f"I am inviting {len(guests)} people to dinner")
 
 print("Sorry but now I can only invite two people for dinner")
 

@@ -9,6 +9,10 @@ with open('new_canvas.txt') as file_object:
     
     print(contents)
 
+word = "Python"
+
+
+contents = contents.replace(word, "PHP" )
 
 for line in contents.splitlines():
     print(line)

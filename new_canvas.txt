@@ -1,0 +1,3 @@
+In Python you can make classes and instances of classes.
+In Python you can loop through lists of information.
+In Python you can create functions that take arguments and produce output.
